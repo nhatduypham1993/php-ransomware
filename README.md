@@ -10,7 +10,7 @@ Ransomware is set to start encrypting files and directories from the server's we
 
 Tested on XAMPP for Windows v7.4.3 (64-bit) with PHP v7.4.3.
 
-P.S. On web servers other than XAMPP (Apache) you might need to load OpenSSL and Multibyte String libraries.
+P.S. On web servers other than XAMPP (Apache) you might need to load OpenSSL and Multibyte String libraries within PHP.
 
 Made for educational purposes. I hope it will help!
 
